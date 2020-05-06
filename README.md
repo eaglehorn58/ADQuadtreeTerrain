@@ -20,6 +20,7 @@ The way to use the package:
 4. Use WASDQE keys and right button to control camera.
 5. Play with the parameters on the inspector panels of QTreeTerrain and MainCamera.
 
+![image](./Images/QuadtreeTerrain03.jpg)
 ![image](https://github.com/eaglehorn58/ADQuadtreeTerrain/tree/master/Images/QuadtreeTerrain03.jpg)
 ![image](https://github.com/eaglehorn58/ADQuadtreeTerrain/tree/master/Images/QuadtreeTerrain04.jpg)
 ![image](https://github.com/eaglehorn58/ADQuadtreeTerrain/tree/master/Images/QuadtreeTerrain05.jpg)
