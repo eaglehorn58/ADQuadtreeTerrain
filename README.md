@@ -21,8 +21,6 @@ The way to use the package:
 5. Play with the parameters on the inspector panels of QTreeTerrain and MainCamera.
 
 ![image](./Images/QuadtreeTerrain03.jpg)
-![image](https://github.com/eaglehorn58/ADQuadtreeTerrain/tree/master/Images/QuadtreeTerrain03.jpg)
-![image](https://github.com/eaglehorn58/ADQuadtreeTerrain/tree/master/Images/QuadtreeTerrain04.jpg)
-![image](https://github.com/eaglehorn58/ADQuadtreeTerrain/tree/master/Images/QuadtreeTerrain05.jpg)
-![image](https://github.com/eaglehorn58/ADQuadtreeTerrain/tree/master/Images/QuadtreeTerrain06.jpg)
-
+![image](./Images/QuadtreeTerrain04.jpg)
+![image](./Images/QuadtreeTerrain05.jpg)
+![image](./Images/QuadtreeTerrain06.jpg)
